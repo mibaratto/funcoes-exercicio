@@ -26,5 +26,4 @@ resultadoDivisao = divisao(numero1, numero2)
 console.log(`soma: ${resultadoSoma} 
 subtracao: ${resultadoSubtracao}
 multiplicacao: ${resultadoMultiplicacao}
-divisão: ${resultadoDivisao}`
-)
+divisão: ${resultadoDivisao}`)

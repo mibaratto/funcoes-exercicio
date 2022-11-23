@@ -12,13 +12,13 @@ console.log(funcaoMaiorIgual(1, 2))
 
 //C
 function funcaoPar(numero1){
-    return console.log(`${numero1} é par? ${numero1 % 2 === 0}`)
+    return numero1 % 2 === 0
 }
-funcaoPar(2)
+
+console.log(funcaoPar(20))
 
 //D
 function descontoInss(salario){
-    salario = salario -(salario * 0.1)
-    return salario
+    return salario = salario - (salario * 0.1)
 }
 console.log(descontoInss(1000))
